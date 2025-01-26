@@ -44,18 +44,16 @@ func main() {
 	}
 
 	// Generation mode
-	fmt.Println(getAllFilenames(&embeddedModels))
+	//fmt.Println(getAllFilenames(&embeddedModels))
 	model, err := gophertext.LoadEmbedded(embeddedModels, "models/literature.gt")
 	if err != nil {
 		panic(err)
 	}
 
-	text, err := model.Generate(1000)
+	text, err := model.Generate(100)
 	if err != nil {
 		panic(err)
 	}
-
-	fmt.Println(len(text))
 
 	fmt.Println(text, "...")
 }
