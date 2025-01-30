@@ -1,7 +1,4 @@
 
-Here’s a `README.md` for your project, **GopherText**, a Go-based Markov chain text generator:
-
----
 
 # GopherText 🐹
 
@@ -114,7 +111,3 @@ GopherText is licensed under the MIT License. See [LICENSE](LICENSE) for details
 ## Star the Repo ⭐
 
 If you find GopherText useful, please give it a star on [GitHub](https://github.com/yourusername/gophertext)!
-
----
-
-Let me know if you’d like to tweak anything in the README! 🚀
