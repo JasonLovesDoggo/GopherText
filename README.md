@@ -20,7 +20,7 @@
 To use GopherText in your Go project, run:
 
 ```bash
-go get github.com/yourusername/gophertext
+go get github.com/jasonlovesdoggo/gophertext
 ```
 
 ---
@@ -34,7 +34,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yourusername/gophertext"
+	"github.com/jasonlovesdoggo/gophertext"
 )
 
 func main() {
@@ -110,4 +110,4 @@ GopherText is licensed under the MIT License. See [LICENSE](LICENSE) for details
 
 ## Star the Repo ⭐
 
-If you find GopherText useful, please give it a star on [GitHub](https://github.com/yourusername/gophertext)!
+If you find GopherText useful, please give it a star on [GitHub](https://github.com/jasonlovesdoggo/gophertext)!
